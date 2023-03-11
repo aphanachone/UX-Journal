@@ -1,3 +1,3 @@
-# UX-Journal
+### UX-Journal
 
 Hi
